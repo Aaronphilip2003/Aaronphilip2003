@@ -23,9 +23,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronphilip2003&show_icons=true&locale=en" alt="aaronphilip2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronphilip2003&" alt="aaronphilip2003" /></p>
+<!-- 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&redirect=true) -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&redirect=true)
-
-
-<img height="340px" class="grid-child green" src="https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&redirect=true"/></a>
+<a herf="(https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&redirect=true" target="_top">
+<img height="340px" class="grid-child green" src="https://spotify-github-profile.vercel.app/api/view?uid=31zxgih52pzczqo7zks6p2z2ebgm&cover_image=true&theme=default"/></a>
 
