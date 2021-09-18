@@ -26,6 +26,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&redirect=true)
 
-<div>
+
 <img height="340px" class="grid-child green" src="https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&redirect=true"/></a>
-</div>
+
