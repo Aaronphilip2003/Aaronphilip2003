@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronphilip2003&" alt="aaronphilip2003" /></p>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=d57rcuk3sbwgiotedak0swrdh&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&redirect=true)
