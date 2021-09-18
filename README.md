@@ -26,7 +26,6 @@
 
 
 <h1> SPOTIFY </h1>
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&redirect=true) -->
 
 <div align= center style:" display: grid; grid-template-columns: 1fr 1fr; grid-gap: 70px ">
 <a herf="https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&redirect=true" target="_top">
