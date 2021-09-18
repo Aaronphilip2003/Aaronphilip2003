@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aaronphilip11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaronphilip11" height="30" width="40" /></a>
 <a href="https://instagram.com/aaronnn__00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaronnn__00" height="30" width="40" /></a>
+<a href="https://twitter.com/aaronphilip11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaronphilip11" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aaronphilip2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aaronphilip2003" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aaronphilip" target="blank"><img align="center" src="https://codeforces.org/s/58725/images/codeforces-logo-with-telegram.png" alt="aaronphilip" height="30" width="40" /></a>
 </p>
