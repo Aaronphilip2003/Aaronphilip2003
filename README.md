@@ -24,8 +24,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronphilip2003&" alt="aaronphilip2003" /></p>
 
-
-<h1>                             SPOTIFY                             </h1>
+div {text-align: center;}
+<div>  <h1>SPOTIFY</h1>  </div>
 
 <div align= center style:" display: grid; grid-template-columns: 1fr 1fr; grid-gap: 70px ">
 <a herf="https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&redirect=true" target="_top">
