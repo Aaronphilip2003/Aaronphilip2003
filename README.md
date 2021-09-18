@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronphilip2003&show_icons=true&locale=en" alt="aaronphilip2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronphilip2003&" alt="aaronphilip2003" /></p>
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=d57rcuk3sbwgiotedak0swrdh&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact)]]
