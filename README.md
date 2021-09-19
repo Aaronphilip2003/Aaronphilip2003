@@ -27,7 +27,7 @@
 <!-- div {text-align: center;} -->
 <h1>SPOTIFY</h1>  </div>
 
-<!-- <div align= center style:" display: grid; grid-template-columns: 1fr 1fr; grid-gap: 70px "> -->
+<div align= center style:" display: grid; grid-template-columns: 1fr 1fr; grid-gap: 70px ">
 <a herf="https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&redirect=true" target="_top">
 <img height="340px" class="grid-child green" src="https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact&cover_image=true&theme=default"/></a>
 </div>
