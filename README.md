@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aaronphilip2003@gmail.com**
 
-- ⚡ Fun fact **I play the Piano and am on the 5th out of 8 grades of the Trinity College of Music Certifications**
+- ⚡ Fun fact **I play the Piano and am on the 5th out of 8 grades of the Trinity College of Music Certifications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
