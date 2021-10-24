@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">I am a Student and Developer currently doing my first year of Computer Science Engineering</h3>
 
-- 🌱 I’m currently learning **Python, Java, C++**
+- 🌱 I’m currently learning **Python, Java and C++**
 
 - 💬 Ask me about **Python, Java, C++, Data Structures and Algorithms and Machine Learning**
 
