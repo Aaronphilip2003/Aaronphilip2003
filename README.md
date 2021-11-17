@@ -34,4 +34,4 @@
 <img height="340px" class="grid-child green" src="https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact&cover_image=true&theme=default"/></a>
 </div>
 <img src="https://raw.githubusercontent.com/Aaronphilip2003/Aaronphilip2003/output/github-contribution-grid-snake.svg">
-<!--  -->connected to the YAML file on github workflows
+<!-- connected to the YAML file on github workflows -->
