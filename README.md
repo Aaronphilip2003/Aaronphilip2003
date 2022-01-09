@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Java and C++**
 
-- 💬 Ask me about **Python, Java, C++, Data Structures and Algorithms and Machine Learning**
+- 💬 Ask me about **Python, Java, C++, Flutter,Data Structures and Algorithms and Machine Learning**
 
 - 📫 How to reach me **aaronphilip2003@gmail.com**
 
