@@ -24,6 +24,9 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://devdocs.io/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://devdocs.io/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="git" width="40" height="40"/> </a>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronphilip2003&show_icons=true&locale=en" alt="aaronphilip2003" /></p>
 
