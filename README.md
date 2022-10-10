@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
-<h3 align="center">I am a Student and Developer currently doing my first year of Computer Science Engineering</h3>
+<h3 align="center">I am a Student and Developer currently doing my Second year of Computer Science Engineering</h3>
+
+<h2 align="center">My Team and I won the 2022 edition of the Smart India Hackathon wherein we worked on a generalised chatbot aimed at the healthcare industry</h2>
 
 - 🌱 I’m currently learning **Python, Java and C++**
 
