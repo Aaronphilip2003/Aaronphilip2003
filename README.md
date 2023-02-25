@@ -31,6 +31,7 @@
 <a href="https://devdocs.io/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://devdocs.io/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+ <a href="https://www.gnome.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gnome/gnome-icon.svg" alt="gnome" width="40" height="40"/>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronphilip2003&show_icons=true&locale=en" alt="aaronphilip2003" /></p>
