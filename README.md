@@ -8,8 +8,6 @@
 
 - 🌱 I am proficient in Python, Java, and C++ programming languages. 
 
-- 💬 Ask me about **Python, Java, C++,Data Structures and Algorithms and Machine Learning**
-
 - 🐱💻 Started with Ethical Hacking and interested in Web Security and Hacking.
 
 - 📫 How to reach me **aaronphilip2003@gmail.com**
