@@ -3,11 +3,14 @@
 
 <h2 align="center">My Team and I won the 2022 edition of the Smart India Hackathon wherein we worked on a generalised chatbot aimed at the healthcare industry</h2>
 
-- 🌱 I’m currently learning **Python, Java and C++**
 
-- 💬 Ask me about **Python, Java, C++, Flutter,Data Structures and Algorithms and Machine Learning**
+- 💻 I am currently developing Web applications using the MERN (MongoDB, Express, React, Node.js) stack.
 
-- 🐱‍💻 Started with Ethical Hacking and interested in Web Security and Hacking.
+- 🌱 I am proficient in Python, Java, and C++ programming languages. 
+
+- 💬 Ask me about **Python, Java, C++,Data Structures and Algorithms and Machine Learning**
+
+- 🐱💻 Started with Ethical Hacking and interested in Web Security and Hacking.
 
 - 📫 How to reach me **aaronphilip2003@gmail.com**
 
