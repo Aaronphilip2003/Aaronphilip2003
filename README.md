@@ -4,11 +4,9 @@
 <h2 align="center">My Team and I won the 2022 edition of the Smart India Hackathon wherein we worked on a generalised chatbot aimed at the healthcare industry</h2>
 
 
-- 💻 I am currently developing Web applications using the MERN (MongoDB, Express, React, Node.js) stack.
+- 💻 Currently working on building observability @[devrev](https://devrev.ai/).
 
-- 🌱 I am proficient in Python, Java, and C++ programming languages. 
-
-- 🐱💻 Started with Ethical Hacking and interested in Web Security and Hacking.
+- 📕 Read about my work on my [Portfolio](https://nextjs-blog-sand-rho-45.vercel.app/)
 
 - 📫 How to reach me **aaronphilip2003@gmail.com**
 
