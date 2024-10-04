@@ -39,14 +39,3 @@
 ](https://www.shareicon.net/data/128x128/2015/09/11/99314_gnome_512x512.png)"aaronphilip2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronphilip2003&" alt="aaronphilip2003" /></p>
-
-<!-- div {text-align: center;} -->
-<h1>SPOTIFY</h1>  </div>
-
-<div align= center style:" display: grid; grid-template-columns: 1fr 1fr; grid-gap: 71px ">
-<a herf="https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&redirect=true" target="_top">
-<img height="340px" class="grid-child green" src="https://spotify-github-profile.vercel.app/api/view?uid=d57rcuk3sbwgiotedak0swrdh&cover_image=true&theme=compact&cover_image=true&theme=default"/></a>
-</div>
-
-<img src="https://raw.githubusercontent.com/Aaronphilip2003/Aaronphilip2003/output/github-contribution-grid-snake.svg">
-<!-- connected to the YAML file on github workflows -->
