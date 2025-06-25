@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">I am a Developer </h3>
 
-<h2 align="center">My Team and I won the 2022 edition of the Smart India Hackathon wherein we worked on a generalised chatbot aimed at the healthcare industry</h2>
-
 
 - 💻 Ex observability @[devrev](https://devrev.ai/).
+
+- 💾 Won the 2022 edition of the Smart India Hackathon wherein we worked on a generalised chatbot aimed at the healthcare industry
 
 - 📕 Read about my work on my [Portfolio](https://nextjs-blog-sand-rho-45.vercel.app/)
 
