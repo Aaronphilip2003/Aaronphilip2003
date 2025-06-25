@@ -35,5 +35,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronphilip2003&show_icons=true&locale=en" alt=[
 ](https://www.shareicon.net/data/128x128/2015/09/11/99314_gnome_512x512.png)"aaronphilip2003" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronphilip2003&" alt="aaronphilip2003" /></p>
