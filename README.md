@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">I am a Developer </h3>
 
+- 💻 GenAI  @[ZS](https://www.zs.com/).
 
 - 💻 Ex observability @[devrev](https://devrev.ai/).
 
